@@ -1,1 +1,1 @@
-*Resolver o conflito de merge*
+*Criar aqui um conflito de merge*
